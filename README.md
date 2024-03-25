@@ -34,7 +34,7 @@ Website I try out techologies on: [realmoneycompany.com](https://realmoneycompan
   <img align="left" alt="Marcus's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=mackeper&style=flat-square&color=gray" alt=""/>
+<img align="right" src="https://komarev.com/ghpvc/?username=mackeper&style=flat-square&color=gray" alt=""/>
 
 <!--
 **mackeper/mackeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
