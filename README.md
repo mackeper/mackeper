@@ -1,6 +1,8 @@
-## Hi there :wave:
+### Hi there :wave:
 
-My just for fun website: [realmoneycompany.com](https://realmoneycompany.com)
+----
+
+Website I try out techologies on: [realmoneycompany.com](https://realmoneycompany.com)
 
 ### Theses :scroll:
 - Master: [Quantities and units in software models](https://github.com/mackeper/Quantities-and-units-in-software-models)
@@ -25,6 +27,12 @@ My just for fun website: [realmoneycompany.com](https://realmoneycompany.com)
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mackeper&show_icons=true&layout=compact&theme=vision-friendly-dark&hide=contribs" />
   </a>
 </details>
+
+----
+
+<a href="https://www.linkedin.com/in/marcus-%C3%B6stling">
+  <img align="left" alt="Marcus's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=mackeper&style=flat-square&color=gray" alt=""/>
 
