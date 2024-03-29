@@ -6,7 +6,7 @@ Website I try out techologies on: [realmoneycompany.com](https://realmoneycompan
 
 ### Theses :scroll:
 - Master: [Quantities and units in software models](https://github.com/mackeper/Quantities-and-units-in-software-models)
-- Bachelor [Automatic classification of neurons by their morphology](https://github.com/mackeper/AutomaticClassification)
+- Bachelor: [Automatic classification of neurons by their morphology](https://github.com/mackeper/AutomaticClassification)
 
 ### Stats :chart_with_upwards_trend:
 <details>
