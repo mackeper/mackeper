@@ -2,7 +2,7 @@
 
 ----
 
-Website I try out techologies on: [realmoneycompany.com](https://realmoneycompany.com)
+Website I try out techologies on: [realmoneycompany.com](https://v2.realmoneycompany.com)
 
 ### Theses :scroll:
 - Master: [Quantities and units in software models](https://github.com/mackeper/Quantities-and-units-in-software-models)
