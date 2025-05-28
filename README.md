@@ -29,12 +29,8 @@ Website I try out techologies on: [v2.realmoneycompany.com](https://v2.realmoney
 </details>
 
 ----
-
-<a href="https://www.linkedin.com/in/marcus-%C3%B6stling">
-  <img align="left" alt="Marcus's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=mackeper&style=flat-square&color=gray" alt=""/>
+[![Static Badge](https://img.shields.io/badge/marcus-0092b7?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmarcus-%25C3%25B6stling)](https://www.linkedin.com/in/marcus-%C3%B6stling)
+<img align="right" style="float:right;" src="https://komarev.com/ghpvc/?username=mackeper&style=flat-square&color=gray" alt=""/>
 
 <!--
 **mackeper/mackeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
